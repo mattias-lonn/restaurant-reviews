@@ -23,7 +23,7 @@ li {
 }
 
 a {
-  color: #c57d1d;
+  color: #C72;
   text-decoration: none;
 }
 
@@ -226,7 +226,7 @@ h1 {
 }
 
 #restaurants-list li a {
-  background: #c57d1d;
+  background: #C72;
   border-bottom: 3px solid #eee;
   color: #fff;
   display: inline-block;
